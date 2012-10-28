@@ -6,7 +6,7 @@ Read more at http://wisol.ch/w/articles/2012-10-26-arduino-setup.html
 
 ## Requirements & Compilation
 
-This project targets the Arduino environment. It requires avr-gcc, avr-libc, the Arduino SDK, and CMake.
+This project targets the Arduino environment. It requires the Arduino SDK and CMake.
 
 Clone the repository and make board specific settings in CMakeLists.txt.
 
